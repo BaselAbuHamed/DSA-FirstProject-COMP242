@@ -1,5 +1,6 @@
 # DSA-FirstProject-COMP242
 Write an airline GUI ticket reservation system using Java FX. The program should display a menu with the following options: 
+
 1. Read data 
 a. Read the flights information from a file named flights.txt 
 b. Read the passengers' information (reservations) from a file named passengers.txt 
