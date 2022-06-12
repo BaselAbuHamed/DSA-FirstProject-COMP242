@@ -11,5 +11,7 @@ b. Read the passengers' information (reservations) from a file named passengers.
 7. Check whether a ticket is reserved for a particular person 
 8. Search for a specific passenger and print all his information (Flight number, Ticket number, Full name, Passport number, Nationality, and Birthdate). 
 9. Exit
+
+
 ![image](https://user-images.githubusercontent.com/107325485/173226139-c3c0cf45-307d-4902-a909-cea6482d949f.png)
 
